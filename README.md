@@ -13,12 +13,8 @@
 8. Slack notifications
 
 ### Exercises 30mins
-1. Add yourself as a member via a pull request
+1. Fix the issues via a pull request
 2. Review all other pull requests
 3. Comment or approve
 
 ### Questions 10mins
-
-### Outlook 5mins
-1. History
-2. Issues
